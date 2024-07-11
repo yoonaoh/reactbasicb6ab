@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0.0",
+  "components": [
+    {
+      "id": "frontend",
+      "friendlyName": "React App",
+      "type": "static",
+      "appLocation": "/",
+      "outputLocation": "build"
+    }
+  ]
+}
